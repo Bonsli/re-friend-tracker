@@ -169,7 +169,7 @@ export class GuiModel {
                             "type": "button",
                             "name": "Friends",
                             "icon": "fa-user",
-                            "color": "blue",
+                            "color": "green",
                             "page": "friendspage",
                         },
                         {
